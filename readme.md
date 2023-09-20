@@ -1,1 +1,3 @@
-clase3
+nombre : Carlos Gimenez
+edad: 43
+lugar de residencia: San Miguel
